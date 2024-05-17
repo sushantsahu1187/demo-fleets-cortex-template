@@ -5,6 +5,5 @@
   "environment": ["Development", "Test", "Production"],
   "description": "Enter the system description",
   "application_name": "Enter the application name",
-  "application_short_name": "Enter the application short name",
   "version": "1.0"
 }
